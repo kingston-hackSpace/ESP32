@@ -1,5 +1,10 @@
 # Adafruit ESP32-S3 (8 MB Flash, no PSRAM)
 
+- Understanding the ESP32-S3 features and PINOUT
+
+- Set up your ESP32-S3
+
+  
 ### Native USB 
 
 Its USB-C port can act like a keyboard, mouse, or disk drive, with no external USB-to-Serial converter required. Just plug it in!
