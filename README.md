@@ -4,7 +4,7 @@
 
 - [Powering the ESP32-S3](https://github.com/kingston-hackSpace/ESP32/blob/main/powering.md)
 
-- Set up your ESP32-S3
+- [Set-Up your ESP32-S3]
 
 - Read more about ESP32-S3 [here](https://learn.adafruit.com/adafruit-esp32-s3-feather)
 
