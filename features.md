@@ -47,3 +47,7 @@ Its USB-C port can act like a keyboard, mouse, or disk drive, with no external U
 - MISO - This is the SPI Microcontroller In / Sensor Out pin.
 
 - SCL - This is the I2C clock pin. There is a 5k pullup on this pin.
+
+- SDA - This is the I2C data pin. There is a 5k pullup on this pin.
+
+- D5-D6, D9-D13 - These are digital pins. D5, D6, D9 and D10 are on ADC1. D11-D13 are on ADC2.
