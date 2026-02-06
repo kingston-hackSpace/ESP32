@@ -2,7 +2,7 @@
 
 - [Understanding the ESP32-S3 features and PINOUT](https://github.com/kingston-hackSpace/ESP32/blob/main/features.md)
 
-- [Powering the ESP32-S3]
+- [Powering the ESP32-S3](https://github.com/kingston-hackSpace/ESP32/blob/main/powering.md)
 
 - Set up your ESP32-S3
 
