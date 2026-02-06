@@ -7,6 +7,8 @@
 ----
 ## Set-Up instructions
 
+(For visual instructions see [here](https://learn.adafruit.com/adafruit-esp32-s3-feather/overview-2))
+
 Step1
 
 Open your Arduino IDE, open Settings and add the following URL to the Additional Boards Manager URLs
@@ -19,4 +21,6 @@ Go to the Tools → Board → Board Manager submenu. Choose **esp32 by Espressif
 
 Step 3
 
-Adafruit Feather ESP32-S3 No PSRAM
+In the Tools → Board submenu you should see ESP32 Arduino. Select:
+
+      Adafruit Feather ESP32-S3 No PSRAM
