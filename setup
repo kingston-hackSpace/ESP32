@@ -1,5 +1,0 @@
-# Set-Up your ESP32-S3
-
-WINDOWS WARINIG:
-
-The ESP32-S2/S3 bootloader does not have USB serial support for Windows 7 or 8. Read more [here](https://learn.adafruit.com/adafruit-esp32-s3-feather/overview-2)
