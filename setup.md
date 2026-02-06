@@ -24,3 +24,8 @@ Step 3
 In the Tools → Board submenu you should see ESP32 Arduino. Select:
 
       Adafruit Feather ESP32-S3 No PSRAM
+
+
+Select the port:
+
+ESP32-S3 support in Arduino uses native USB which can crash. If you ever DON'T see a serial/COM port, you can always manually enter bootloading mode. This bootloader is in ROM, it is 'un-brickable' so you can always use this technique to get into the bootloader. However, after uploading your Arduino code you MUST press reset to start the sketch.
