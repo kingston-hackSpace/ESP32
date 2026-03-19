@@ -1,4 +1,11 @@
-# Adafruit ESP32-S3 (8 MB Flash, no PSRAM)
+#ESP32
+
+
+
+
+## Adafruit ESP32 Feather V2
+
+## Adafruit ESP32-S3 (8 MB Flash, no PSRAM)
 
 - [Understanding FEATURES and PINOUT](https://github.com/kingston-hackSpace/ESP32/blob/main/features.md)
 
