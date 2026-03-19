@@ -1,11 +1,30 @@
-#ESP32
+# ESP32
+----
+
+**WHAT IS THE *ESP32*?**
+
+The ESP32 is a powerful, low-cost microcontroller made by Espressif Systems. What characterizes it its that it comes with Wi-Fi, Bluetooth (Classic + BLE), a generous set of GPIO pins, and a rich set of peripherals.
+Think of it as a capable, connected microcontroller that sits in a sweet spot between simple boards like the Arduino and a Raspberry Pi.
+
+----
+**WHEN (AND WHY) tO USE AN ESP32**
+
+Choosing the right board for your project matters. 
+
+USE A ESP32 IF:
+
+- You need Wi-Fi or Bluetooth (sending data to a server, phone, or cloud)
+
+- Your project needs more processing power or memory
+
+- You need a small but powerful microcontroller 
 
 
+----
+## Adafruit ESP32 Feather V2 (8MG Flash, 2MB PSRAM)
 
-
-## Adafruit ESP32 Feather V2
-
-## Adafruit ESP32-S3 (8 MB Flash, no PSRAM)
+----
+## Adafruit ESP32-S3 (8MB Flash, no PSRAM)
 
 - [Understanding FEATURES and PINOUT](https://github.com/kingston-hackSpace/ESP32/blob/main/features.md)
 
