@@ -24,7 +24,7 @@ USE A ESP32 IF:
 ---
 ## ESP32 TYPES
 
-At HackSpace we have the **ESP32-Feather-V2** and the **ESP32-S3 Feather**, which suit different kinds of projects:
+At hackSpace we have the **ESP32-Feather-V2** and the **ESP32-S3 Feather**, which suit different kinds of projects:
 
 — **ADAFRUIT ESP32 Feather V2 (8MB Flash, 2MB PSRAM):** Best for projects that need to store or move large amounts of data — like driving a screen, buffering sensor readings, or working with graphics. Its 2MB PSRAM gives it extra memory headroom that the S3 lacks. It also supports Bluetooth Classic (not just BLE), which matters if you're connecting to older Bluetooth devices like speakers or serial adapters. Best programmed using the Arduino IDE. One important note: analog sensor readings on ADC2 pins stop working once Wi-Fi is active. 
 
