@@ -4,7 +4,7 @@
 The ESP32 allows for access to wifi networks. The process for logging into a enterprise network requires additonal parameters due to increased security considerations.
 
 ----
-## Instructions for loading connecting to enterprise wifi.
+## Instructions for connecting to enterprise wifi.
 
 ### STEP 1
 In the arduino IDE download the esp32 board package by espressive. Make sure you use ESP32 Dev Module as board, serial port that corresponds to the USB device.
