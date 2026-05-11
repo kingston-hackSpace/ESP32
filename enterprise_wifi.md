@@ -1,4 +1,4 @@
-# ESP enterprise wifi
+# ESP32 enterprise wifi
 ----
 
 The ESP32 allows for access to wifi networks. The process for logging into a enterprise network requires additonal parameters due to increased security considerations.
