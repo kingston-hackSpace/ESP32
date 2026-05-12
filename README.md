@@ -30,7 +30,7 @@ At hackSpace we have the **ESP32-Feather-V2** and the **ESP32-S3 Feather**, whic
 
 - [Adafruit ESP32 Feather V2 Tutorial](https://learn.adafruit.com/adafruit-esp32-feather-v2/arduino-ide-setup)
 
-- If you need to access an enterprise wifi network, please follow this educational pathway...
+- **ADAFRUIT ESP32 Feather V2 (8MB Flash, 2MB PSRAM):** If you need to access an enterprise wifi network, please follow this educational pathway...
 
 - [Connecting to an enterprise wifi network](https://github.com/kingston-hackSpace/ESP32/blob/main/enterprise_wifi.md)
 
