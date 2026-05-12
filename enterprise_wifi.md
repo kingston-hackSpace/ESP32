@@ -1,7 +1,7 @@
 # ESP32 enterprise wifi
 ----
 
-The ESP32 allows for access to wifi networks. The process for logging into a enterprise network requires additonal parameters due to increased security considerations.
+The ESP32 allows for access to wifi networks. Most wifi networks require just the id of the network and a password to allow logging in. Some networks come with additional security considerations and use an additional username credential, enterprise wifi networks share this characteristic. Eduroam, the university wifi network, is an example of an enterprise network.
 
 ----
 ## Instructions for connecting to enterprise wifi.
