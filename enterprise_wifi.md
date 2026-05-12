@@ -16,7 +16,7 @@ If you're using enterprise wifi for the first time, download the esp32wifiEnterp
 Add the wifi login details for the local wifi to the sketch on line 19-21 these are the network id, username and password, see your local enterprise wifi settings for this. For Kingston University see [this page](https://kingstonuniversity.sharepoint.com/sites/mykingston/mysupport/itsupport/gettingstarted/Pages/Get-connected-to-eduroam.aspx:)
 
 ### STEP 4
-Press reset button down as download, when the connecting message appears, release the button and the download will take place.
+With the V2 feather board, Press reset button down as download, when the connecting message appears, release the button and the download will take place. With the ESP32-S3, no reset is needed.
 
 ### STEP 5 
 Make sure the baud rate is set to 115200 in the serial monitor to see the output and check the connection.
