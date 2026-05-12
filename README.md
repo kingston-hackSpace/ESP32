@@ -30,6 +30,11 @@ At hackSpace we have the **ESP32-Feather-V2** and the **ESP32-S3 Feather**, whic
 
 - [Adafruit ESP32 Feather V2 Tutorial](https://learn.adafruit.com/adafruit-esp32-feather-v2/arduino-ide-setup)
 
+- If you need to access an enterprise wifi network, please follow this educational pathway...
+
+- [Connecting to an enterprise wifi network](https://github.com/kingston-hackSpace/ESP32/blob/main/enterprise_wifi.md)
+
+
 ---
 
 — **Adafruit ESP32-S3 (8MB Flash, no PSRAM):** The newer chip. Best for interactive and sensor-heavy projects. Its standout feature is native USB — it can present itself to a computer as a keyboard, mouse, MIDI controller, or USB drive without any extra hardware, making it great for performance and installation work. Almost any pin can be assigned to PWM, I2C, SPI, or UART in code Adafruit, which makes wiring up motors, LEDs, and sensors more flexible. It has no DAC (so no true analog audio output), but handles NeoPixel LEDs, servos, and I2C sensors very well. It also works smoothly with CircuitPython — files can be edited directly from your file system like a USB stick Adafruit, which is a friendlier workflow for beginners.
