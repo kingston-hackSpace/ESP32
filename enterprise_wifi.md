@@ -10,7 +10,7 @@ The ESP32 allows for access to wifi networks. Most wifi networks require just th
 In the arduino IDE download the esp32 board package by espressive. If using the V2 feather board, Make sure you use 'ESP32 Dev Module' as board. If you're using the ESP32-S3 feather board, use 'Adafruit feather ESP32-S3 no PSRAM'. Select the Serial port that corresponds to the USB device.
 
 ### STEP 2
-If you're using enterprise wifi for the first time, download the esp32wifiEnterprise custom library. Go to manage libraries and search. To test, load the login sketch form the examples.
+If you're using enterprise wifi for the first time, download the esp32wifiEnterprise custom library. Go to manage libraries and search. To test, load the 'Basic Connection' sketch from the examples.
 
 ### STEP 3
 Add the wifi login details for the local wifi to the sketch on line 19-21 these are the network id, username and password, see your local enterprise wifi settings for this. For Kingston University see [this page](https://kingstonuniversity.sharepoint.com/sites/mykingston/mysupport/itsupport/gettingstarted/Pages/Get-connected-to-eduroam.aspx:)
