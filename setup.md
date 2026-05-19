@@ -21,7 +21,7 @@ Go to the Tools → Board → Board Manager submenu. Choose **esp32 by Espressif
 
 Step 3
 
-In the Tools → Board submenu you should see ESP32 Arduino. Select:
+Go to Tools → Board → esp32:
 
       Adafruit Feather ESP32-S3 No PSRAM
 
