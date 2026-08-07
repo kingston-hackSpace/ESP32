@@ -21,9 +21,9 @@ If you're using enterprise Wi-Fi for the first time, download the **esp32wifiEnt
       - Go to **"File > Examples... > (scroll down until you see:) esp32wifiEnterprise > Basic Connection"**
 
 ### STEP 3
-Add the Wi-Fi login details for the local Wi-Fi to the sketch on line 19-21 these are the network ID, username and password, see your local enterprise Wi-Fi settings for this. For Kingston University see [this page](https://kingstonuniversity.sharepoint.com/sites/mykingston/mysupport/itsupport/gettingstarted/Pages/Get-connected-to-eduroam.aspx:)
+Add the Wi-Fi login details for the local Wi-Fi to the sketch on line 19-21 these are the network ID (eduroam), username (your KU email) and password, see your local enterprise Wi-Fi settings for this. For Kingston University see [this page](https://kingstonuniversity.sharepoint.com/sites/mykingston/mysupport/itsupport/gettingstarted/Pages/Get-connected-to-eduroam.aspx:)
 
-**WARNING!** DO NOT give your ID user and passwords to any AI chatbots. Ask a hackSpace technician if you need further help setting this up. 
+**WARNING! DO NOT give your ID user and passwords to any AI chatbots!!** Ask a hackSpace technician if you need further help setting this up. 
 
 ### STEP 4
 With the V2 feather board, Press reset button down as download, when the connecting message appears, release the button and the download will take place. With the ESP32-S3, no reset is needed.
