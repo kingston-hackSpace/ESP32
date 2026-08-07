@@ -7,7 +7,7 @@ The ESP32 allows for access to wifi networks. Most wifi networks require just th
 ## Instructions for connecting to enterprise wifi.
 
 ### STEP 1
-In the arduino IDE download the esp32 board package by espressive. If using the V2 feather board, Make sure you use 'Adafruit Feather ESP32 V2' as board. If you're using the ESP32-S3 feather board, use 'Adafruit feather ESP32-S3 no PSRAM'. Select the Serial port that corresponds to the USB device.
+In the arduino IDE download the esp32 board package by espressive. If using the V2 feather board, Make sure you use **'Adafruit Feather ESP32 V2'** as board. If you're using the ESP32-S3 feather board, use **'Adafruit feather ESP32-S3 no PSRAM'**. Select the Serial port that corresponds to the USB device.
 
 ### STEP 2
 If you're using enterprise wifi for the first time, download the esp32wifiEnterprise custom library. Go to manage libraries and search. To test, load the 'Basic Connection' sketch from the examples.
