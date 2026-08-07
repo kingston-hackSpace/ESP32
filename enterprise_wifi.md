@@ -26,7 +26,7 @@ Add the Wi-Fi login details for the local Wi-Fi to the sketch on line 19-21 thes
 **WARNING! DO NOT give your ID user and passwords to any AI chatbots!!** Ask a hackSpace technician if you need further help setting this up. 
 
 ### STEP 4
-With the V2 feather board, Press reset button down as download, when the connecting message appears, release the button and the download will take place. With the ESP32-S3, no reset is needed.
+With the V2 feather board, press "reset button" down as download, when the connecting message appears, release the button and the download will take place. With the ESP32-S3, no reset is needed.
 
 ### STEP 5 
 Make sure the baud rate is set to 115200 in the serial monitor to see the output and check the connection.
