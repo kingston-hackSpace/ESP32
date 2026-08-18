@@ -21,7 +21,7 @@ If you're using enterprise Wi-Fi for the first time, download the **esp32wifiEnt
       - Go to **"File > Examples... > (scroll down until you see:) esp32wifiEnterprise > Basic Connection"**
 
 ### STEP 3
-Add the Wi-Fi login details for the local Wi-Fi to the sketch on line 19-21 these are the network ID, username and password, see your local enterprise Wi-Fi settings for this. For Kingston University see [this page](https://kingstonuniversity.sharepoint.com/sites/mykingston/mysupport/itsupport/gettingstarted/Pages/Get-connected-to-eduroam.aspx:)
+Add the Wi-Fi login details for the local Wi-Fi to the sketch on line 19-21 these are the network ID, username and password, see your local enterprise Wi-Fi settings for this. For Kingston University, the ssid is "eduroam" username is your k number + @kingston.ac.uk and the password is your account password.
 
 **WARNING! DO NOT give your ID user and passwords to any AI chatbots!!** Ask a hackSpace technician if you need further help setting this up. 
 
